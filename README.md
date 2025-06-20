@@ -21,14 +21,14 @@ The project includes filtering images by category (Nature, Animals) and a lightb
 ## 📂 Files Included
 
 📁 Task1-ImageGallery/
-├── index.html → Main HTML structure
-├── style.css → Styling for layout, responsiveness, and lightbox
-├── script.js → JS for filtering and lightbox logic
-└── images/ → Folder containing gallery images
-├── nature1.jpeg
-├── nature2.jpeg
-├── animal1.jpeg
-└── animal2.jpeg
+- index.html → Main HTML structure
+- style.css → Styling for layout, responsiveness, and lightbox
+- script.js → JS for filtering and lightbox logic
+- images/ → Folder containing gallery images
+   - nature1.jpeg
+   - nature2.jpeg
+   - animal1.jpeg
+   - animal2.jpeg
 
 ---
 
