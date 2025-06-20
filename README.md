@@ -34,10 +34,7 @@ The project includes filtering images by category (Nature, Animals) and a lightb
 
 ## 🚀 How to Run
 
-1. **Clone or download** the repository:
-   ```bash
-   git clone https://github.com/yourusername/task1-image-gallery.git
-   cd task1-image-gallery
+
 Open the project:
 
 Just double-click index.html
